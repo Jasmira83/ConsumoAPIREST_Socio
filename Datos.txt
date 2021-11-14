@@ -1,0 +1,10 @@
+ 
+DATOS:
+
+a.       Sección              =          1900
+
+b.       Nombre completo      =          Jasmira Romelio Ubidalla        
+
+c.       Numero de cuenta     =          20171032707
+
+d.       Numero de grupo      =          1
